@@ -1,7 +1,9 @@
 # Traveltime
 GPS Vehicle Tracking and Smart Card Payment
 
-# Demo is Available
-Email: demo@example.com 
-Password: demo 
+<strong> Demo is Available </strong>
+<p>
+  Email: demo@example.com <br/>
+  Password: demo 
+</p>
 https://tt.softnical.com/demo
