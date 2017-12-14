@@ -51,5 +51,4 @@ $RESULT=
 	"status" => "ERROR",
 	"message" => "can not perform given action."
 ];
-
 ?>
